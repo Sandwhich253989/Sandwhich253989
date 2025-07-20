@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sandwhich253989</h1>
-<h3 align="center"> </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandwhich253989&label=Profile%20views&color=0e75b6&style=flat" alt="sandwhich253989" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning - Neural Networks**
@@ -9,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avanesh-sathish-kumar-620550263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanesh-sathish-kumar-620550263/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandwhich253989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandwhich253989" height="30" width="40" /></a>
 </p>
 
