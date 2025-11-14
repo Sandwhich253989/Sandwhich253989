@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandwhich253989</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandwhich253989&label=Profile%20views&color=0e75b6&style=flat" alt="sandwhich253989" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning - Neural Networks**
+<!-- 🌱 I’m currently learning **Deep Learning - Neural Networks** -->
 
 - 📫 How to reach me **avanesh165@gmail.com**
 
